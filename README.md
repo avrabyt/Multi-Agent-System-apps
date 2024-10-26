@@ -1,8 +1,7 @@
 # Multi-Agent-System-App
-Build Multi Agent System Apps with Phidata and Databutton
+The entire code was generated using Databutton AI Agent. Please refer to the video below to check out the prompts.
 
-# Live Streaming demo
-### Tutorial for the core concept with an use-case
+# Live Streaming video
 [![(Not Just Hype!) Build a Multi-Agent AI App with Just Prompts? Watch Live—A Real Backend & Slick UI](https://img.youtube.com/vi/GiAqN402Kgs/maxresdefault.jpg)](https://youtu.be/GiAqN402Kgs)
 
 ### Resources
